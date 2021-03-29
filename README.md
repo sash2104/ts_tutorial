@@ -1,4 +1,4 @@
-typescriptのsetup
+typescriptのsetup  
 https://qiita.com/ochiochi/items/efdaa0ae7d8c972c8103 をほぼそのままやってるだけ
 
 ## 環境構築
