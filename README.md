@@ -56,3 +56,7 @@ webpack 5.28.0 compiled successfully in 1940 ms
 ## 備考
 - scripts/startがwebpackのバージョン違いで動作しなかったのでもとの記事から修正
 - https://community.sonarsource.com/t/no-tsconfig-json-file-found-analysis-will-be-stopped/35824 のエラー出たら、tsconfig.jsonのあるディレクトリで`code .`し直す
+- 外部ライブラリを利用したくなったら下記を参考にする
+  - [TypeScriptチュートリアル② -外部ライブラリの利用-](https://qiita.com/ochiochi/items/ab234853704cc53af325)
+  - [TypeScriptチュートリアル②外伝 -チャンク-](https://qiita.com/ochiochi/items/cc825671f8179126fa70)
+
