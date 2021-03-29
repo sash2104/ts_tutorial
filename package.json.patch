@@ -1,0 +1,3 @@
+6a7,8
+>     "build": "webpack --mode=development",
+>     "start": "webpack-cli serve --mode development",
